@@ -115,7 +115,7 @@ function Main() {
                     <div className='text-start my-3'><span id='pronounciation'><strong>Pronounciation:</strong>Pronounciation of the word will be displayed here</span></div>
                     <div className='text-start my-3'> <strong>Meaning: </strong> <span id='meaning'>Meaning of the word will be displayed here</span></div>
 
-                    <div className='text-start my-3'> <strong>Part of speech: </strong> <span id='partOfSpeech'>Meaning of the word will be displayed here</span></div>
+                    <div className='text-start my-3'> <strong>Part of speech: </strong> <span id='partOfSpeech'>Parts of Speech will be displayed here</span></div>
                 </div>
 
             </div>
